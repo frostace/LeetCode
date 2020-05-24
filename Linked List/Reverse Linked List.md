@@ -32,7 +32,7 @@ var reverseList = function(head) {
 ```
 
 ### 2. Iterative -- T = O(n), S = O(1)
-![Iterative Operation Demo]([https://github.com/frostace/LeetCode/blob/master/Linked%20List/206-iterative.gif](https://github.com/frostace/LeetCode/blob/master/Linked%20List/206-iterative.gif))
+![Iterative Operation Demo](https://github.com/frostace/LeetCode/blob/master/Linked%20List/206-iterative.gif)
 
 Loop until curr points at NULL
 

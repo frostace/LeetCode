@@ -17,5 +17,7 @@ LeetCode Notes, Intuitions and Codes
 
 ### 3. DFS
 
-* [Possible Bipartition - Leetcode 886]([https://github.com/frostace/LeetCode/blob/master/DFS/886.%20Possible%20Bipartition.md](https://github.com/frostace/LeetCode/blob/master/DFS/886. Possible Bipartition.md))
+* [Possible Bipartition - Leetcode 886](https://github.com/frostace/LeetCode/blob/master/DFS/886.%20Possible%20Bipartition.md)
 
+### 4. Threading
+* [Print in Order - Leetcode 1114](https://github.com/frostace/LeetCode/blob/master/Threading/1114.%20Print%20in%20Order.md)

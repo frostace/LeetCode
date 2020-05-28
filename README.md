@@ -17,3 +17,5 @@ LeetCode Notes, Intuitions and Codes
 
 ### 3. DFS
 
+* [Possible Bipartition - Leetcode 886]([https://github.com/frostace/LeetCode/blob/master/DFS/886.%20Possible%20Bipartition.md](https://github.com/frostace/LeetCode/blob/master/DFS/886. Possible Bipartition.md))
+

@@ -21,3 +21,4 @@ LeetCode Notes, Intuitions and Codes
 
 ### 4. Threading
 * [Print in Order - Leetcode 1114](https://github.com/frostace/LeetCode/blob/master/Threading/1114.%20Print%20in%20Order.md)
+* [Print FooBar Alternately - Leetcode 1115](https://github.com/frostace/LeetCode/blob/master/Threading/1115.%20Print%20FooBar%20Alternately.md)

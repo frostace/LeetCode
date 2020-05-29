@@ -19,6 +19,12 @@ LeetCode Notes, Intuitions and Codes
 
 * [Possible Bipartition - Leetcode 886](https://github.com/frostace/LeetCode/blob/master/DFS/886.%20Possible%20Bipartition.md)
 
-### 4. Threading
+### 4. Sort
+
+* [Sort an Array - Leetcode 912](https://github.com/frostace/LeetCode/tree/master/Sort/912.%20Sort%20an%20Array.md)
+
+### 5. Threading
+
 * [Print in Order - Leetcode 1114](https://github.com/frostace/LeetCode/blob/master/Threading/1114.%20Print%20in%20Order.md)
 * [Print FooBar Alternately - Leetcode 1115](https://github.com/frostace/LeetCode/blob/master/Threading/1115.%20Print%20FooBar%20Alternately.md)
+

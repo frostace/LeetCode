@@ -28,3 +28,10 @@ LeetCode Notes, Intuitions and Codes
 * [Print in Order - Leetcode 1114](https://github.com/frostace/LeetCode/blob/master/Threading/1114.%20Print%20in%20Order.md)
 * [Print FooBar Alternately - Leetcode 1115](https://github.com/frostace/LeetCode/blob/master/Threading/1115.%20Print%20FooBar%20Alternately.md)
 
+### 6. Binary Search
+
+* [First Bad Version - Leetcode 278](https://github.com/frostace/LeetCode/blob/master/Binary%20Search/278.%20First%20Bad%20Version.md)
+
+### 7. Stack
+
+* [Decode String](https://github.com/frostace/LeetCode/blob/master/Stack/394.%20Decode%20String.md)

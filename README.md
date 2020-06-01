@@ -11,12 +11,15 @@ LeetCode Notes, Intuitions and Codes
 * [Reverse Nodes in K-Group - Leetcode 25](https://github.com/frostace/LeetCode/blob/master/Linked%20List/25.%20Reverse%20Nodes%20in%20k-Group.md)
 
 ### 2. Dynamic Programming
+* Knapsack Problem -> Partition Equal Subset Sum - Leetcode 416
 * Regular Expression Matching - Leetcode 10
 * [Edit Distance - Leetcode 72](https://leetcode.com/problems/edit-distance/)
 * [Super Egg Drop - Leetcode 887](https://github.com/frostace/LeetCode/blob/master/DP/877.%20Super%20Egg%20Drop.md)
+* [Stickers to Spell Word - Leetcode 691]
 
 ### 3. DFS
 
+* N Queens - Leetcode 51
 * [Possible Bipartition - Leetcode 886](https://github.com/frostace/LeetCode/blob/master/DFS/886.%20Possible%20Bipartition.md)
 
 ### 4. Sort

@@ -12,7 +12,7 @@ LeetCode Notes, Intuitions and Codes
 
 ### 2. Dynamic Programming
 * Regular Expression Matching - Leetcode 10
-* Edit Distance - Leetcode 72
+* [Edit Distance - Leetcode 72](https://leetcode.com/problems/edit-distance/)
 * [Super Egg Drop - Leetcode 887](https://github.com/frostace/LeetCode/blob/master/DP/877.%20Super%20Egg%20Drop.md)
 
 ### 3. DFS
@@ -34,4 +34,4 @@ LeetCode Notes, Intuitions and Codes
 
 ### 7. Stack
 
-* [Decode String](https://github.com/frostace/LeetCode/blob/master/Stack/394.%20Decode%20String.md)
+* [Decode String - Leetcode 394](https://github.com/frostace/LeetCode/blob/master/Stack/394.%20Decode%20String.md)

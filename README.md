@@ -21,7 +21,7 @@ LeetCode Notes, Intuitions and Codes
 
 ### 3. DFS
 
-* N Queens - Leetcode 51
+* [N Queens - Leetcode 51](./DFS/51.%20N%20Queens.md)
 * [Possible Bipartition - Leetcode 886](./DFS/886.%20Possible%20Bipartition.md)
 
 ### 4. Sort

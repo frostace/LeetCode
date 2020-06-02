@@ -40,3 +40,7 @@ LeetCode Notes, Intuitions and Codes
 ### 7. Stack
 
 * [Decode String - Leetcode 394](https://github.com/frostace/LeetCode/blob/master/Stack/394.%20Decode%20String.md)
+
+### 8. Binary Tree
+
+* [Invert Binary Tree - Leetcode 216](./Binary%20Tree/226.%20Invert%20Binary%20Tree.md)

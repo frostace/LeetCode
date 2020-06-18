@@ -1,6 +1,4 @@
 # LeetCode
-test for git pull 0602
-
 LeetCode Notes, Intuitions and Codes
 
 ## Linked List

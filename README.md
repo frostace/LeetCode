@@ -14,6 +14,7 @@ LeetCode Notes, Intuitions and Codes
 * Knapsack Problem -> Partition Equal Subset Sum - Leetcode 416
 * Regular Expression Matching - Leetcode 10
 * [Edit Distance - Leetcode 72](./DP/72.%20/Edit%20Distance.md)
+* [Word Break - Leetcode 139](./DP/139.%20Word%20Break.md)
 * [Super Egg Drop - Leetcode 887](./DP/877.%20Super%20Egg%20Drop.md)
 * [Stickers to Spell Word - Leetcode 691]
 

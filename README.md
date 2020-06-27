@@ -44,6 +44,7 @@ LeetCode Notes, Intuitions and Codes
 
 * [Invert Binary Tree - Leetcode 216](./Binary%20Tree/226.%20Invert%20Binary%20Tree.md)
 * [Recover a Tree from Preorder Traversal - 1028](./Binary%20Tree/1028.%20Recover%20a%20Tree%20from%20Preorder%20Traversal.md)
+* [Serialize and Deserialize Binary Tree - 297](./Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
 
 ### 9. Advanced Data Structure
 

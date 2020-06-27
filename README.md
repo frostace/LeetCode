@@ -43,8 +43,12 @@ LeetCode Notes, Intuitions and Codes
 ### 8. Binary Tree
 
 * [Invert Binary Tree - Leetcode 216](./Binary%20Tree/226.%20Invert%20Binary%20Tree.md)
-* [Recover a Tree from Preorder Traversal - 1028](./Binary%20Tree/1028.%20Recover%20a%20Tree%20from%20Preorder%20Traversal.md)
-* [Serialize and Deserialize Binary Tree - 297](./Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+* [Recover a Tree from Preorder Traversal - Leetcode 1028](./Binary%20Tree/1028.%20Recover%20a%20Tree%20from%20Preorder%20Traversal.md)
+* [Serialize and Deserialize Binary Tree - Leetcode 297](./Binary%20Tree/297.%20Serialize%20and%20Deserialize%20Binary%20Tree.md)
+
+### 9. Heap
+
+* [Top K Frequent Elements - Leetcode 347](./Heap/347.%20Top%20K%20Frequent%20Elements.md)
 
 ### 9. Advanced Data Structure
 

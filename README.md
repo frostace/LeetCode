@@ -53,3 +53,8 @@ LeetCode Notes, Intuitions and Codes
 ### 9. Advanced Data Structure
 
 * [Trie Tree - Leetcode 208](./Tree/208.%20Trie%20Tree.md)
+
+### 10. Graph
+
+* [Topological Sort](./Grpah/.md)
+

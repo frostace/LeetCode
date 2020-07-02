@@ -12,7 +12,7 @@ LeetCode Notes, Intuitions and Codes
 
 ### 2. Dynamic Programming
 * Knapsack Problem -> Partition Equal Subset Sum - Leetcode 416
-* Regular Expression Matching - Leetcode 10
+* [Regular Expression Matching - Leetcode 10](./DP/10.%20Regular%20Expression%20Matching.md)
 * [Edit Distance - Leetcode 72](./DP/72.%20/Edit%20Distance.md)
 * [Word Break - Leetcode 139](./DP/139.%20Word%20Break.md)
 * [Super Egg Drop - Leetcode 887](./DP/877.%20Super%20Egg%20Drop.md)

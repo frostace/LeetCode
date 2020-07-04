@@ -22,6 +22,7 @@ LeetCode Notes, Intuitions and Codes
 
 * [N Queens - Leetcode 51](./DFS/51.%20N%20Queens.md)
 * [Possible Bipartition - Leetcode 886](./DFS/886.%20Possible%20Bipartition.md)
+* [Combination Sum - Leetcode 39](./DFS/39.%20Combination%20Sum.md)
 
 ### 4. Sort
 

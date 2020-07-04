@@ -18,6 +18,11 @@ LeetCode Notes, Intuitions and Codes
 * [Super Egg Drop - Leetcode 887](./DP/877.%20Super%20Egg%20Drop.md)
 * [Stickers to Spell Word - Leetcode 691]
 
+### 3. Greedy Approach
+
+* [Task Scheduler - Leetcode 621](./Greedy/621.%20Task%20Scheduler.md)
+
+
 ### 3. DFS
 
 * [N Queens - Leetcode 51](./DFS/51.%20N%20Queens.md)

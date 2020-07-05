@@ -50,6 +50,7 @@ LeetCode Notes, Intuitions and Codes
 ### 9. Stack
 
 * [Decode String - Leetcode 394](./Stack/394.%20Decode%20String.md)
+* Monotonic Stack -> [Largest Rectangle in Histogram - Leetcode 84](./Divide%20and%20Conquer/84.%20Largest%20Rectangle%20in%20Histogram.md)
 
 ### 10. Binary Tree
 

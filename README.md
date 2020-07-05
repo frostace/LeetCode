@@ -21,6 +21,7 @@ LeetCode Notes, Intuitions and Codes
 ### 3. Greedy Approach
 
 * [Task Scheduler - Leetcode 621](./Greedy/621.%20Task%20Scheduler.md)
+* [Jump Game - Leetcode 55](./Greedy/55.%20Jump%20Game.md)
 
 
 ### 4. DFS
